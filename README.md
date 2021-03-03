@@ -1,2 +1,2 @@
-# cpnt201-a4
+# CPNT201-A4
 Repo created to demonstrate merge conflict
